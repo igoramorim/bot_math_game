@@ -1,4 +1,4 @@
-# parser code: https://github.com/mariocesar
+# Evaluate mathematical expressions funcition: https://github.com/mariocesar
 import ast
 import re
 
